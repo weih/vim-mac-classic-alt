@@ -1,8 +1,8 @@
 # MacVim port Textmate Mac Classic
 
-This is a MacVim port Textmate Mac Classic theme with some improvements. Make **Coffeescript** highlight just like **Ruby**.
+This is a MacVim port Textmate Mac Classic theme with some improvements. Make **Coffeescript** highlight just like **Ruby**, and some **Javascript** highlight change.
 
-Original mac_classic theme converted from Textmate using Coloration(http://github.com/sickill/coloration):
+Original mac_classic theme converted from Textmate using Coloration(http://github.com/sickill/coloration)
 
 ![](https://raw.github.com/weih/vim-mac-classic-alt/master/screenshots/old_javascript.png)
 
@@ -19,7 +19,7 @@ Ruby:
 Copy mac_classic_alt.vim into ~/.vim/colors/ (Unix) or vimfiles/colors/ (Windows) as with 
 other color schemes.
 
-or use Bundle
+or use Bundle:
 
 ```
 Bundle 'weih/vim-mac-classic-alt'

@@ -10,7 +10,7 @@ endif
 
 let g:colors_name = "mac_classic_alt"
 
-hi Cursor  guifg=NONE guibg=#000000 gui=NONE
+hi Cursor  guifg=NONE guibg=#999999 gui=NONE
 hi Visual  guifg=NONE guibg=#c6deff gui=NONE
 hi CursorLine  guifg=NONE guibg=#ededed gui=NONE
 hi CursorColumn  guifg=NONE guibg=#ededed gui=NONE
